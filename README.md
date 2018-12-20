@@ -10,7 +10,7 @@ Ran Goldblatt, our contact with NLT, is a remote sensing scientist and senior co
 
 **Problem**:
 
-NLT requested that our students complete projects surrounding emergency preparedness. In short summary, the four projects our students may complete are:
+NLT requested that our students complete projects surrounding emergency preparedness and economic analysis. In short summary, the twelve projects you may complete are:
 
 1. Leveraging Social Media to Map Disasters.
 2. Leveraging News and Media for Situational Awareness.
@@ -23,12 +23,13 @@ NLT requested that our students complete projects surrounding emergency prepared
 9. Using news outlets and/or social media to identify areas/neighborhoods with power outages.
 10. Using live police radio reports for real time identification of people needing assistance.
 11. Using Indeed or Glassdoor platforms together with number and type of affected businesses to estimate the expected economic loss (wages) due to a disaster.
+12. Using drone data to estimate rooftop quality and material classification.
 
 That's where you come in.
 
 For the next four weeks, our class will tackle various projects related to emergency preparedness and economic analysis. On **Friday, January 18**, we'll present our findings and deliver:
 1. A clean GitHub repo containing our reproducible results and analysis.
-2. A real-world 
+2. A real-world demonstration of the product.
 3. Any documentation for running the code.
 
 > This is an exciting opportunity to identify and solve a problem relevant to the real world problems. Using your data science skills in this practical, _pro bono_ capacity reflects well on you and gives you a great story as you embark on interviews! (The fact that we'll be using open data also gives you free reign to publicly publish your findings and to freely discuss this in interviews.)
