@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 5: New Light Technologies Client Project
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Client Project
 
 ### Overview
 
@@ -140,9 +140,9 @@ For the purposes of a DSI project, you must meet a few technical requirements. T
 
 3) You may build _either_ a supervised learning model _or_ conduct an unsupervised learning analysis. Bear in mind that the value you provide to New Light Technologies may come from data ingestion, data cleaning, EDA, and/ or a dashboard, etc. While a model may not be immediately apparent, be creative. *Without us telling you exactly what model to build, how could you build a model to increase performance or generate better insights when answering the problem you are facing?*
 
-**Deadline**: October 5th, 2018.
+**Deadline**: January 18th, 2019.
 
-**Questions**: Questions should be sent via Slack to Farshad or Brian. Questions should be specific, brief, and formatted so that they can be directly sent to our contacts at NLT.
+**Questions**: Questions should be sent to your local instructor; questions that need to go to the client should be directed to Matt Brems via email (matt.brems@ga.co). Questions should be specific, brief, and formatted so that they can be directly sent to our contacts at NLT.
 > This is a good practice to develop! When contacting a boss or a client, you should make your question as easy as possible to answer. Consider the following two examples:
 
 > Example 1: "Hey, I have a question. I'm writing a blog post about TensorFlow but got stuck. This part was confusing: https://www.tensorflow.org/api_docs/python/tf/tanh Can you help?"
@@ -159,13 +159,7 @@ For the purposes of a DSI project, you must meet a few technical requirements. T
 
 ### Teams
 
-| Problem 1 | Problem 3 | Problem 4 |
-|--------|--------|--------|
-|   Jon  |  Alex  | Thomas |
-|  Ryan  |  April | Allie  |
-|  Garth | Jamila | Melanie|
-|  Hakob | Jordan |  Erik  |
-|  Belen |        | Suzanne|
+Your local instructor will divide your class into teams. Chat with them to find out!
 
 ---
 
