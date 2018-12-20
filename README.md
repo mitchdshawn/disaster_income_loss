@@ -26,7 +26,10 @@ NLT requested that our students complete projects surrounding emergency prepared
 
 That's where you come in.
 
-For the next four weeks, our class will tackle various projects related to emergency preparedness and economic analysis. On **Friday, January 18**, we'll present our findings and deliver a clean GitHub repo containing our reproducible results and analysis.
+For the next four weeks, our class will tackle various projects related to emergency preparedness and economic analysis. On **Friday, January 18**, we'll present our findings and deliver:
+1. A clean GitHub repo containing our reproducible results and analysis.
+2. A real-world 
+3. Any documentation for running the code.
 
 > This is an exciting opportunity to identify and solve a problem relevant to the real world problems. Using your data science skills in this practical, _pro bono_ capacity reflects well on you and gives you a great story as you embark on interviews! (The fact that we'll be using open data also gives you free reign to publicly publish your findings and to freely discuss this in interviews.)
 
