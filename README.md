@@ -62,7 +62,7 @@ reference, or a KML file) with relevant information acquired from the tweet as a
 
 - Geo-referenced disaster-specific social media posts (with or without images).
 
-[Github Link for DSI-DC students' past work](https://github.com/belencito27/Map_Disasters_Twitter)
+[Github Link for DSI-DC students' past work.](https://github.com/belencito27/Map_Disasters_Twitter)
 - Feel free to use this as a reference or to build on top of it. **Make sure to provide credit where credit is due!!**
 
 
@@ -107,7 +107,7 @@ distance between origin and destination and propose an optimal route to the dest
 affect travel and accessibility.
 - The output can be either tabular (e.g. allow for search of names of closed roads) or geospatial (e.g. produce a map of real-time road closures).
 
-[Github Link for DSI-DC students' past work](https://github.com/Celis1/Project-5)
+[Github Link for DSI-DC students' past work.](https://github.com/Celis1/Project-5)
 - Feel free to use this as a reference or to build on top of it. **Make sure to provide credit where credit is due!!**
 
 
@@ -121,7 +121,7 @@ affect travel and accessibility.
 - The tool will allow the user to automatically search for the mean, median, min, max and average value of the properties in each zip code area.
 - The objective is not to download the database from these sources. Rather, it should allow the user to feed the code with a list of affected areas (zip codes) as input, and retrieve the current (or historical, annual, monthly, quarterly) property values.
 
-[Github Link for DSI-DC students' past work](https://github.com/tbacas/Zillow-Disaster-Estimates)
+[Github Link for DSI-DC students' past work.](https://github.com/tbacas/Zillow-Disaster-Estimates)
 - Feel free to use this as a reference or to build on top of it. **Make sure to provide credit where credit is due!!**
 
 *Desired Deliverables:*
