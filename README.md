@@ -39,9 +39,7 @@ For the next four weeks, our class will tackle various projects related to emerg
 **Problem 1: Leveraging Social Media to Map Disasters**
 
 *Problem Statement:*
-- When responding to disasters (e.g. damage and casualties caused by hurricanes,
-tornadoes, floods, fires etc.), it is critical to map and identify locations of survivors
-needing assistance.
+- When responding to disasters (e.g. damage and casualties caused by hurricanes, tornadoes, floods, fires etc.), it is critical to map and identify locations of survivors needing assistance.
 - Currently, satellite and aerial imagery, ground surveys and modeled hazard data are the primary tools used to assess damage and to identify areas where survivors may need assistance.
 - Often, survivors will resort to using social media to call for help or share information about their location and the current situation. In many cases they will also include useful images showing water levels, amount of damage etc. which could indicate on the intensity of the disaster.
 - This information can be leveraged to track the event in real-time. Social media can help identify isolated communities at risk, locations of survivors and areas where assistance teams should be sent for search and rescue, levels of damage, help map depths of flooding, identify where additional imagery/information needs to be collected and plan when and where resources should be allocated.
@@ -63,6 +61,9 @@ reference, or a KML file) with relevant information acquired from the tweet as a
 *Descriptions of data used as input:*
 
 - Geo-referenced disaster-specific social media posts (with or without images).
+
+[Github Link for DSI-DC students' past work](https://github.com/belencito27/Map_Disasters_Twitter)
+- Feel free to use this as a reference or to build on top of it. **Make sure to provide credit where credit is due!!**
 
 
 **Problem 2: Leveraging News and Media for Situational Awareness**
@@ -106,6 +107,8 @@ distance between origin and destination and propose an optimal route to the dest
 affect travel and accessibility.
 - The output can be either tabular (e.g. allow for search of names of closed roads) or geospatial (e.g. produce a map of real-time road closures).
 
+[Github Link for DSI-DC students' past work](https://github.com/Celis1/Project-5)
+- Feel free to use this as a reference or to build on top of it. **Make sure to provide credit where credit is due!!**
 
 
 **Problem 4: Extracting Building Values from Zillow**
@@ -118,6 +121,9 @@ affect travel and accessibility.
 - The tool will allow the user to automatically search for the mean, median, min, max and average value of the properties in each zip code area.
 - The objective is not to download the database from these sources. Rather, it should allow the user to feed the code with a list of affected areas (zip codes) as input, and retrieve the current (or historical, annual, monthly, quarterly) property values.
 
+[Github Link for DSI-DC students' past work](https://github.com/tbacas/Zillow-Disaster-Estimates)
+- Feel free to use this as a reference or to build on top of it. **Make sure to provide credit where credit is due!!**
+
 *Desired Deliverables:*
 - A short write-up describing the project.
 - An open source code (or a simple API) which takes, as input, a list of zip codes, and outputs the mean, median, min and max property values in these areas
@@ -126,6 +132,39 @@ affect travel and accessibility.
 - Zillow
 - Trulia
 - Realtor.com
+
+**Problem 5: Utilizing Social Media to alert about new disasters and their nature**
+
+*Problem Statement:*
+The students will design and implement a web-tool or an app for rapid alert and notification about a disastrous event, in close to real time. The tool will alert about the event, similar, for example, to earthquake or tsunami warnings that appear on Google`s home page immediately after a major disaster. While traditional methods for alerting on such events rely on official information derived from official sources (e.g. USGS), this tool will utilize social media activity to identify these events and alert when an event first occurs.
+
+**Problem 6: Using Google Street View as a baseline for damage assessment.**
+
+*Problem Statement:* During the recovery phase immediately following a disaster, FEMA performs damage assessment “on the ground” to assess the level of damage caused to residential parcels and to critical infrastructure. To assure an accurate estimation of the damage, it is important to understand the condition of the structures prior to the event. To help and guide the damage assessment efforts following a disaster and to assist the surveyors identify the structures of interest, this tool (a web-app or a mobile app) will expect to get, as an input, a list of addresses. It will retrieve screen shots of the structures from Google Street View. The students will design a damage assessment form, which, in addition to relevant information about the level of damage to the structures, will also provide a pre-event photo of the assessed structure.
+
+**Problem 7: Utilizing Yelp cost estimates ($, $$, $$$) for estimating neighborhood affluency **
+
+*Problem Statement:* This tool will estimate the affluence of a neighborhood based on the number of $ of businesses and services (according to Yelp) in a given neighborhood. This tool will expect to get, as an input, a list of zip codes or names of neighborhoods and will estimate the wealth of the locality. While traditional methods typically estimate wealth of a locality based on demographic characteristics (e.g. income or unemployment rate), the novelty of this approach is in its use of big data related to commercial activity and cost of product and services as an indicator for affluency.  
+
+**Problem 8: Utilizing Yelp data to estimate the number of businesses in a given locality and categorizing them according to FEMA`s seven lifelines**
+
+*Problem Statement:* Prior to and during a disaster, it is important to understand the projected and actual effects of the event on the community, including its economic effects on critical services. FEMA has identified seven “lifelines” that require attention during a disaster: (1) safety and security; (2) Food, water, sheltering; (3) Health and medical; (4) Energy (power, fuel); (5) Communications; (6) Transportation; (7) hazardous waste. This tool will utilize Yelp to estimate the effects of the event on each of the seven lifelines. This can include the number of businesses or services in each category or even, if available, their status (if provided by users and reviews in Yelp). The tool will search for relevant data and categorize it according to a list of impacted neighborhoods or a list of affected zip codes. It will provide an estimation of the potential impact of the event, at least according to the data available in Yelp.
+
+**Problem 9: Using news outlets or social media to identify areas/neighborhoods with power outages. **
+
+*Problem Statement:* During a disaster, residential areas often experience massive power outages, that in many cases last for days. Traditional methods to map power outages include live feeds and data that is provided by major utility companies as well as on satellite data that capture the extent of light emitted at night.  This tool will utilize news feeds and/or posts on social media to identify “hot spots” of concern and areas suffering from power outages (assuming that these posts are reported via social media apps on mobile phone). Following an event, the tool will scan relevant news or social media websites to identify localities likely to suffer from power outage.
+
+**Problem 10: Using live police radio reports for real time identification of people needing assistance. **
+
+*Problem Statement:* Currently, FEMA identifies areas that require immediate attention (for search and rescue efforts) either by responding to reports and requests put directly by the public or, recently, using social media posts. This tool will utilize live police radio reports to identify hot spots representing locations of people who need immediate attention. The tool will flag neighborhoods or specific streets where the police and first-respondents were called to provide assistance related to the event.
+
+**Problem 11: Using Indeed or Glassdoor together with number and type of affected businesses to estimate the expected economic loss due to a disaster**
+
+*Problem Statement:* This tool will rely on websites that provide employment information and sector-specific wage estimations (such as Glassdoor and Indeed) to project the economic loss (wage loss) due to a disaster. Based on the type of businesses and services in a given affected area and/or using supplementary demographic data (for example, from the Census Burau of Statistics), the tool will provide an estimation about the projected economic loss in a given locality based on the reported or estimated wage loss in the locality.
+
+**Problem 12: Predicting Rooftop Quality and Integrity using Drone Image Data**
+
+If you are interested in working on this project, please contact Matt Brems directly. This data may not be publicly posted.
 
 **Requirements**:
 For the purposes of a DSI project, you must meet a few technical requirements. They are:
