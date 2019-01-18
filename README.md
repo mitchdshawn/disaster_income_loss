@@ -34,5 +34,5 @@ Average annual salary : How much is a year of work worth in this state on averag
 
 ### Code Source References
 
-https://plot.ly/~empet/14692/mapbox-choropleth-that-works-with-plotly/#/
+https://plot.ly/~empet/14692/mapbox-choropleth-that-works-with-plotly/#/<br>
 https://plot.ly/python/selection-events/
